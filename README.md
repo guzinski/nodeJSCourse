@@ -1,9 +1,10 @@
-# NodeJs + Mongo DD Api
+# NodeJs + MongoDB Api
 
 A very simple sample of Node JS + Mongo DB Api.
 On this example i did an Api to create list update and delete products.
 
 This base model for a product is:
+
     {
         title: string
         description: string
@@ -11,6 +12,7 @@ This base model for a product is:
     }
 
 To run this simple sample, just type:
+
     npm run dev
 
 The APis are
